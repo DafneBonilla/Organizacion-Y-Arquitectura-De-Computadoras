@@ -1,4 +1,4 @@
-Organización y Arquitectura de Computadoras 💻🪛
+Organización y Arquitectura de Computadoras 💻🧩
 =========================================
 
 Curso Completo de Organización y Arquitectura de Computadoras 2023-2

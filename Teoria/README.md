@@ -1,6 +1,6 @@
 # Teoría 📓
 
-## Curso de Modelado y Programación 2023-1
+## Curso de Organización y Arquitectura de Computadoras 2023-2
 
 ### Teoría dada durante el curso:
 
