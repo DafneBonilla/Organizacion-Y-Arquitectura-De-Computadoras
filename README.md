@@ -1,15 +1,13 @@
-Modelado y Programación 🕹️⌨️
+Organización y Arquitectura de Computadoras 💻🪛
 =========================================
 
-Curso Completo de Modelado y Programación 2023-1
+Curso Completo de Organización y Arquitectura de Computadoras 2023-2
 -------------------------------------------
 
-### Profesor: Rosa Victoria Villa Padilla
+### Profesor: José de Jesús Galaviz Casas
 
 ### Ayudantes
 
-* Arturo Lemus Pablo
-* Itzel Azucena Delgado Díaz
-* Fernando López Balcazar
+* María Ximena Lezama Hérnandez
 
-Prácticas, teoría y proyectos realizados durante el curso de Modelado y Programación.
+Prácticas y teoría realizadas durante el curso de Organización y Arquitectura de Computadoras.
