@@ -1,4 +1,4 @@
-# Teoría 📓
+# Teoría 📒
 
 ## Curso de Organización y Arquitectura de Computadoras 2023-2
 
