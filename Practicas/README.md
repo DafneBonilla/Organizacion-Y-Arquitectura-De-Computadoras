@@ -1,10 +1,17 @@
-# Prácticas 💻
+# 💻 Prácticas </> 
 
-## Curso de Organización y Arquitectura de Computadoras 2023-2
+## Prácticas realizadas durante el curso:
 
-### Prácticas realizadas durante el curso:
-
-> - Práctica 01: Uso de Strategy y Observer.
-> - Práctica 02: Uso de Template, State e Iterator.
-> - Práctica 03: Uso de Decorator y Adapter.
-> - Práctica 04: Uso de Builder.
+> - Práctica 01: Medidas de Desempeño
+> - Práctica 02: Introducción a C
+> - Práctica 03: Circuitos combinacionales
+> - Práctica 04: Unidad Aritmético-Lógica
+> - Práctica 05: Lógica secuencial
+> - Práctica 06: Lenguaje ensamblador
+> - Práctica 01: Convenciones de llamada a subrutinas
+> - Práctica 02: Llamadas al sistema
+> - Práctica 03: Ensamblador
+> - Práctica 10: Simulación de la ruta de datos de un procesador
+> - Práctica 11: Desempeño de cachés
+> - Práctica 12: Coherencia de cachés
+> - Práctica 13: Excepciones
