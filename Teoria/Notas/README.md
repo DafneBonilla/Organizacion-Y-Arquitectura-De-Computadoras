@@ -1,28 +1,13 @@
-# Presentaciones 📂
+# 📂 Notas de Clase
 
-## Curso de Modelado y Programación 2023-1
+### Índice:
 
-### Presentaciones dadas durante el curso:
-
- 1. Paradigmas de programación
- 2. Revisión de código
- 3. UML
- 4. Control de versiones
- 5. Metodologías de desarrollo de sotfware
- 6. Patrones de diseño
- 7. Strategy
- 8. Observer
- 9. Template
- 10. State
- 11. Iterator y Composite
- 12. Decorator
- 13. Adapter
- 14. Facade
- 15. Builder
- 16. Factory y Abstract Factory
- 17. Proxy
- 18. Singleton
- 19. Prototype
- 20. MVC
- 21. Test First
- 22. XML y JSON
+1. Sistemas numéricos y representación de números en una computadora
+2. Elementos cuantitativos de diseño de computadoras
+3. Lógica digital y diseño de circuitos digitales
+4. El conjunto de instrucciones
+5. La ruta de datos y la microarquitectura
+6. Paralelismo a nivel de instrucción
+7. La jerarquía de memoria y caches
+8. Entrada/Salida y canales
+9. Sistemas de multiprocesadores
