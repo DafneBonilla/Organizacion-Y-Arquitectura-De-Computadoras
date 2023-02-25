@@ -1,7 +1,6 @@
-# 📂 Presentaciones de clases
+# 📂 Presentaciones de ayudantías
 
 ### Índice:
 
-1. Introducción
-2. Desempeño
-3. 
+1. Medidas de Desempeño
+2.
