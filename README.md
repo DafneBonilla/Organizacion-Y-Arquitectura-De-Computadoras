@@ -3,7 +3,7 @@ Organización y Arquitectura de Computadoras 🛠💻
 
 <p align="center">
   <img src="Teoria/Resources/C_Logo.svg" width="75" /> &nbsp &nbsp
-  <img src="Teoria/Resources/C_Logo.svg" width="75" /> &nbsp &nbsp
+  <img src="Teoria/Resources/Add_Icon.svg" width="75" /> &nbsp &nbsp
   <img src="Teoria/ASM_Logo.svg" width="250" /> 
 </p>
 
