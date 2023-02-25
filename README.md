@@ -1,10 +1,12 @@
 Organización y Arquitectura de Computadoras 🛠💻
 =========================================
 
-<p float="left">
-  <img src="Teoria/ASM_Logo.svg" width="100" />
-  <img src="Teoria/C_Logo.png" width="100" /> 
+<p align="center">
+  <img src="Teoria/C_Logo.svg" width="75" /> &nbsp &nbsp &nbsp &nbsp
+  <img src="Teoria/ASM_Logo.svg" width="250" /> 
 </p>
+
+
 
 Curso Completo 2023-2
 -------------------------------------------
