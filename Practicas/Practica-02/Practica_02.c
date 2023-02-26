@@ -1,14 +1,14 @@
 
 #include <stdio.h> 
 #include <stdlib.h>
+#include <math.h>
 
 float media_aritmetica(float datos[], int n) {  
     float suma = 0;
     for (int i = 2; i < n; i++) {
         suma += datos[i];
     }
-    float total;
-    total = (float)n-2;
+    float total = (float)n-2;
     float resultado = suma/total;
     return resultado;
 }
@@ -18,21 +18,19 @@ float media_armonica(float datos[], int n) {
     for (int i = 2; i < n; i++) {
         suma += 1/datos[i];
     }
-    float total;
-    total = (float)n-2;
+    float total = (float)n-2;
     float resultado = total/suma;
     return resultado;
 }
 
 float media_geometrica(float datos[], int n) {
-    float multiplicacion = 1;
+    float producto = 1;
     for (int i = 2; i < n; i++) {
-        multiplicacion = multiplicacion*datos[i];
+        producto *= datos[i];
     }
-    float potencia;
-    //total = (float)n-2;
-    //float resultado = suma/total;
-    return multiplicacion;
+    float raiz = n-2;
+    float resultado = pow(producto, 1/raiz);
+    return resultado;
 }
 
 int main(int argc, char *argv[]) {
