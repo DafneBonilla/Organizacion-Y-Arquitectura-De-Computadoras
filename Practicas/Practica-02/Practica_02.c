@@ -41,15 +41,17 @@ int main(int argc, char *argv[]) {
         datos[i] = atof(argv[i]);    
     }
     
-    /*
+    if (*argv[1] == 'A') {
+        printf("%.3f", media_aritmetica(datos, argc));
+    } else if (*argv[1] == 'H') {
+        printf("%.3f", media_armonica(datos, argc));
+    } else if (*argv[1] == 'G') {
+        printf("%.3f", media_geometrica(datos, argc));
+    }
+
+    /* Prueba para imprimir los elementos del array.
     for (int i = 0; i < argc; i++) {
         printf("%f ", datos[i]);
     }
-    return 0;
-    */
-
-    // printf("%f", media_aritmetica(datos, argc));
-    // printf("%f", media_armonica(datos, argc));
-    printf("%f", media_geometrica(datos, argc));
-    
+    return 0; */
 }
