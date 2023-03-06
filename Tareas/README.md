@@ -1,6 +1,6 @@
-# 📚 Tareas 
+# 📝 Tareas 
 
 ## Tareas realizadas durante el curso:
 
-> - Tarea 01: 
+> - Tarea 01: Sistemas Numéricos
 > - 
