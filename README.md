@@ -2,8 +2,8 @@ Organización y Arquitectura de Computadoras 🛠💻
 =========================================
 
 <p align="center">
-  <img src="Teoria/C_Logo.svg" width="70" />  &nbsp  &nbsp  &nbsp 
-  <img src="Teoria/ASM_Logo.svg" width="220" /> 
+  <img src="Teoria/Logisim_Logo.png" width="90" /> &nbsp  &nbsp  &nbsp 
+  <img src="Teoria/C_Logo.svg" width="70" /> 
 </p>
 
 
