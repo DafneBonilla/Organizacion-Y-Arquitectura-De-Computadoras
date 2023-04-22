@@ -19,4 +19,4 @@ Curso Completo 2023-2
 * Sara Doris Montes Incin
 * Ricardo Enrique Pérez Hernández
 
-Prácticas y teoría realizadas durante el curso de Organización y Arquitectura de Computadoras.
+Prácticas, tareas y teoría realizadas durante el curso de Organización y Arquitectura de Computadoras.
