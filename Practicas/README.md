@@ -1,6 +1,6 @@
 # 💻 Prácticas </> 
 
-## Prácticas realizadas durante el curso:
+### Prácticas realizadas durante el curso:
 
 > - Práctica 01: Medidas de desempeño
 > - Práctica 02: Introducción a C
