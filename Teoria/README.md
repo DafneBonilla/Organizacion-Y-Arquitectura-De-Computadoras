@@ -1,6 +1,6 @@
 # 📌 Teoría 
 
-### Teoría dada durante el curso:
+#### Teoría dada durante el curso:
 
-> - Presentaciones y documentos adicionales de clases y ayudantías.
-> - Código y circuitos de logisim. 
+- Notas de clases y ayudantías.
+- Código en `C` y circuitos de logisim. 
