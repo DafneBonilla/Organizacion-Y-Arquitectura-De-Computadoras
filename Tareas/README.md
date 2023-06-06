@@ -6,3 +6,4 @@
 - Tarea 02: Arquitectura y Desempeño
 - Tarea 03: Lógica Digital
 - Tarea 04: Circuitos Digitales
+- Tarea 05: La Ruta de Datos y la Microarquitectura
